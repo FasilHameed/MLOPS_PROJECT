@@ -1,2 +1,12 @@
 Git Setup Basics 
+Project Template 
+
+
+Training Pipeline
 Data Pipelines Src - DESTINATION
+Data Validation
+FE
+Modek Training 
+model Evaul
+
+
